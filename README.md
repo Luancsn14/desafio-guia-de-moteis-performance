@@ -1,6 +1,6 @@
 # Desafio técnico Engenheiro de QA - Guia de Motéis - Performance.
 
-Este é o repositório do desafio técnico Engenheiro de QA para o Guia de Motéis utilizando Postman. Este documento fornece informações sobre o projeto, como executá-lo, plano e estratégia de testes.
+Este é o repositório do desafio técnico Engenheiro de QA para o Guia de Motéis utilizando JMeter. Este documento fornece informações sobre o projeto, como executá-lo, plano e estratégia de testes.
 
 ## Índice
 1. [Sobre o Projeto](#sobre-o-projeto)
